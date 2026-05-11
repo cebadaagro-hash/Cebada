@@ -1,6 +1,6 @@
 # Proyecto Cebada UNRC
 
-Proyecto académico de la Universidad Nacional Rosario Castellanos-
+Proyecto académico de la Universidad Nacional Rosario Castellanos
 
 ## Integrantes
 
