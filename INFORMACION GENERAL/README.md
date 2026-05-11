@@ -2,16 +2,29 @@
 
 La cebada fue el más antiguo de los cereales que el hombre cultivó.
 La cebada es originaria de Asia. Se cultivó en la China 2.8000 A de C y se utilizaba como alimento de hombres y bestias. Con iguales fines se cultivó en Egipto.
+
+
 Su gran adaptabilidad a diferentes terrenos ha permitido su extendimiento a regiones como las del Circulo Astral, algunas partes tropicales como la India, altas montañas de Etiopia y Oasis del Sahara, el bajo Delta del Nilo y suelos australianos de gran alcalinidad.
 En lugares como Palestina Siria, Valle del Eufrates, Iran y Este de Afganistán, se encontraron formas de cebada que fueron usadas por antiquísimos pobladores antes de que se conocieran las variedades cultivadas.
+
+
 Excavaciones realizadas en cercanías del Lago Moréis — conocido así en la antigüedad y localizado al suroeste de lo que hoy es El Cairo, dan a conocer almacenamientos de cebada de por lo menos 5.000 a 10.000 años.
 La cebada es un cereal perteneciente a la familia de las gramíneas, cultivado desde hace miles de años y considerado uno de los primeros granos domesticados por el ser humano. Se utiliza principalmente en:
+
 -Producción de alimentos (harinas, sopas, etc.)
+
+
 -Alimentación animal
+
+
 -Industria cervecera (malta)
+
+
 En México, la cebada tiene una fuerte relación con la industria cervecera, siendo uno de los principales insumos para la producción de cerveza. Su cultivo se concentra en estados como Hidalgo, Guanajuato y Puebla.
 La planta de cebada tiene un ciclo de crecimiento relativamente corto, que va aproximadamente de 4 a 6 meses, dependiendo de las condiciones climáticas. Esto la convierte en un cultivo estratégico, pero también vulnerable a cambios ambientales.
 La cebada es uno de los cereales más importantes a nivel mundial debido a su uso en la industria alimentaria, ganadera y cervecera. En México, su producción forma parte del sector agropecuario, el cual contribuye al crecimiento económico del país y al sustento de miles de productores rurales. 
+
+
 Asimismo, la cebada es un insumo clave para la industria cervecera, una de las más importantes en México. Según la Secretaría de Agricultura y Desarrollo Rural, este cultivo tiene una fuerte demanda industrial, lo que influye directamente en su producción y comercialización (SADER, 2023).
 Sin embargo, los precios de la cebada presentan variaciones constantes debido a factores como condiciones climáticas, costos de producción y cambios en la demanda. De acuerdo con el Servicio de Información Agroalimentaria y Pesquera, estas fluctuaciones afectan directamente los ingresos de los productores, generando incertidumbre en el sector (SIAP, 2023).
 
