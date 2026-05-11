@@ -3,9 +3,12 @@
 Proyecto académico de la Universidad Nacional Rosario Castellanos-
 
 ## Integrantes
-- Mora Madin Kasandra 
+- Mora Madin Kasandra
+  
 -Palacios Rivas Alondra 
+
 -Torres Vega Diana 
+
 -Valle Padron Octavio
 
 ##Grupo:502
