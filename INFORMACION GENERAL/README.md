@@ -19,7 +19,11 @@ Sin embargo, los precios de la cebada presentan variaciones constantes debido a 
 
 -Clima:
 Las exigencias en cuanto al clima son muy pocas, por lo que su cultivo se encuentra muy extendido, aunque crece mejor en los climas frescos y moderadamente secos. La cebada requiere menos unidades de calor para alcanzar la madurez fisiológica, por ello alcanza altas latitudes y altitudes. En Europa llega a los 70º de latitud Norte, no sobrepasando en Rusia los 66º, y en América los 64º. En cuanto a la altitud, alcanza desde los 1.800 m. en Suiza a 3.000 m. en Perú, ya que es entre los cereales, el que se adapta mejor a las latitudes más elevadas (teniendo la precaución de tomar las variedades precoces).
+
+
 -Temperatura:
 Para germinar necesita una temperatura mínima de 6ºC. Florece a los 16ºC y madura a los 20ºC. Tolera muy bien las bajas temperaturas, ya que puede llegar a soportar hasta -10ºC. En climas donde las heladas invernales son muy fuertes, se recomienda sembrar variedades de primavera, pues éstas comienzan a desarrollarse cuando ya han pasado los fríos más intensos.
+
+
 -Suelo:
 La cebada prefiere tierras fértiles, pero puede tener buenas producciones en suelos poco profundos y pedregosos, con tal de que no falte el agua al comienzo de su desarrollo. No le van bien los terrenos demasiado arcillosos y tolera bien el exceso de salinidad en el suelo. Los terrenos compactos no le van bien, pues se dificulta la germinación y las primeras etapas del crecimiento de la planta.Los suelos arcillosos, húmedos y encharcadizos, son desfavorables para la cebada, aunque en ellos se pueden obtener altos rendimientos si se realiza un buen laboreo y se conserva la humedad del suelo. Los suelos con excesivo nitrógeno inducen el encamado e incrementan el porcentaje de nitrógeno en el grano hasta niveles inapropiados, cuando se destina a la fabricación de malta para cerveza.
