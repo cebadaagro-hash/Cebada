@@ -19,7 +19,23 @@ Nuestro flujo de trabajo se basa en un proceso de ETL (Extracción, Transformaci
 Este es el script central que ejecuta la carga y consolidación de nuestras fuentes:
 
 {% code title="" overflow="wrap" expandable="true" %}
-```
-// 
+```apache
+// from pyspark.sql import SparkSession
+
+# 1. Iniciar Spark
+spark = SparkSession.builder.appName("ProyectoIntegrador").getOrCreate()
+
+# 2. Cargar datos
+df_cebada_sp = spark.read.csv('/content/datos_simulados_cebada_8000.csv', header=True, inferSchema=True)
+
+# Cargamos el archivo master de Modeloramas una sola vez
+df_modeloramas_master = spark.read.csv('/content/Consulta modeloramas ok1.csv', header=True, inferSchema=True)
+
+# 3. Validar
+print(f"Registros de Cebada procesados: {df_cebada_sp.count()}")
+print(f"Total registros Modeloramas integrados: {df_modeloramas_master.count()}")
+
+# Mostrar estructura
+df_modeloramas_master.show(5)
 ```
 {% endcode %}
