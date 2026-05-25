@@ -1,50 +1,39 @@
-# Cebada
-# 🌾 Proyecto Cebada
-
-<p align="center">
-  <img src="https://github.com/cebadaagro-hash.png" width="120" style="border-radius: 50%;">
-  <br>
-  <b>@cebadaagro-hash</b>
-</p>
-
+---
+description: 'Mercado Justo: Análisis y predicción de precios de productos agropecuarios'
+icon: brightness
+cover: .gitbook/assets/eaf7749f-4492-49e5-b0f5-4b142346ac65.jfif
+coverY: 36.118811881188115
+coverHeight: 347
+layout:
+  width: wide
+  cover:
+    visible: true
+    size: hero
+  title:
+    visible: true
+  description:
+    visible: true
+  tableOfContents:
+    visible: false
+  outline:
+    visible: true
+  pagination:
+    visible: true
+  metadata:
+    visible: true
+  tags:
+    visible: true
 ---
 
-## 📂 Explorar Contenido
+# BIENVENID@
 
-<details>
-  <summary><b>📊 DATOS (Clic para desplegar)</b></summary>
-  <ul>
-    <li><a href="./DATOS/README.md">Ver registros principales</a></li>
-    <!-- Si tienes más archivos en esta carpeta, agrégalos aquí abajo -->
-  </ul>
-</details>
+***
 
-<br>
+El proyecto esta centrado en la cebada, abarcando diversas materias que se integran analizando el comportamiento de los precios de la cebada en México y desarrollando un modelo de predicción que permita anticipar sus variaciones, con el fin de contribuir a una mejor toma de decisiones en el sector agropecuario.
 
-<details>
-  <summary><b>ℹ️ INFORMACION GENERAL (Clic para desplegar)</b></summary>
-  <ul>
-    <li><a href="./INFORMACION%20GENERAL/IMPORTANCIA.md">⭐ IMPORTANCIA.md</a></li>
-    <li><a href="./INFORMACION%20GENERAL/README.md">Resumen general</a></li>
-  </ul>
-</details>
+Realizado por:&#x20;
 
-<br>
-
-<details>
-  <summary><b>📚 MATERIAS (Clic para desplegar)</b></summary>
-  <ul>
-    <li><a href="./MATERIAS/README.md">Guía de materias</a></li>
-  </ul>
-</details>
-
-<br>
-
-<details>
-  <summary><b>📋 PRESENTACION (Clic para desplegar)</b></summary>
-  <ul>
-    <li><a href="./PRESENTACION/README.md">Ver diapositivas o guía</a></li>
-  </ul>
-</details>
-
----
+* Mora Madin Kasandra Mónica&#x20;
+* Palacios Rivas Alondra&#x20;
+* Torres Vega Diana Aritze&#x20;
+* Valle Padrón Octavio
