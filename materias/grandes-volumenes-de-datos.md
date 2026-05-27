@@ -19,7 +19,7 @@ Nuestro flujo de trabajo se basa en un proceso de ETL (Extracción, Transformaci
 Este es el script central que ejecuta la carga y consolidación de nuestras fuentes:
 
 {% code title="" overflow="wrap" expandable="true" %}
-```apache
+```python
 // from pyspark.sql import SparkSession
 
 # 1. Iniciar Spark
