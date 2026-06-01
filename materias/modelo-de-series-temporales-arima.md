@@ -21,3 +21,10 @@ resultado = modelo.fit()
 prediccion = resultado.get_forecast(steps=36)
 produccion_futura = prediccion.predicted_mean
 ```
+
+El modelo nos permite obtener reportes inteligentes que guían la toma de decisiones:
+
+1. Puntos Críticos: Identificamos el mes exacto donde la producción alcanzará su pico máximo.
+2. Rango de Seguridad: Gracias al _Intervalo de Confianza_, conocemos el margen de error esperado, lo que permite a la cadena de suministro preparar su capacidad de almacenamiento sin sorpresas.
+
+Impacto en el Negocio: Al anticipar la producción de cebada, equilibramos la oferta de los productores con la demanda de los centros de distribución (centros malteros)
