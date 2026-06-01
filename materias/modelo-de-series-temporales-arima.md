@@ -1,5 +1,7 @@
 # Modelo de Series Temporales (ARIMA)
 
+
+
 Hemos implementado un modelo estadístico ARIMA (AutoRegressive Integrated Moving Average). Este algoritmo actúa como un "estabilizador de incertidumbre", analizando los patrones históricos para proyectar con precisión cómo se comportará la cosecha en los próximos 3 años (2025-2027).
 
 ```apache
@@ -21,6 +23,8 @@ resultado = modelo.fit()
 prediccion = resultado.get_forecast(steps=36)
 produccion_futura = prediccion.predicted_mean
 ```
+
+<figure><img src="../.gitbook/assets/WhatsApp Image 2026-05-31 at 9.07.43 PM.jpeg" alt=""><figcaption></figcaption></figure>
 
 El modelo nos permite obtener reportes inteligentes que guían la toma de decisiones:
 

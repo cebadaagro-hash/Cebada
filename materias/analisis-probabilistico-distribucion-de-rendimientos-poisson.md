@@ -2,7 +2,7 @@
 
 En la agricultura, el rendimiento por hectárea no es una cifra estática; depende de la variabilidad del clima, la calidad del suelo y el manejo técnico. Para tomar decisiones logísticas inteligentes, no basta con saber el "promedio histórico", debemos conocer la probabilidad de obtener un rendimiento específico bajo las mejores condiciones de cosecha.
 
-Hemos implementado un análisis basado en la Distribución de Poisson. Este modelo estadístico nos permite estimar la probabilidad de ocurrencia de distintas tasas de rendimiento (toneladas por hectárea) durante los meses de mejor cosecha.
+Hemos implementado un análisis basado en la Distribución de Poisson. Este modelo estadístico nos permite estimar la probabilidad de ocurrencia de distintas tasas de rendimiento (toneladas por hectárea) durante los meses de mejor cosecha por estado.
 
 El proceso utiliza PySpark para agrupar millones de datos de rendimiento y SciPy para modelar la probabilidad de éxito en la cosecha.
 
@@ -16,6 +16,10 @@ analisis_clima_spark = df_clean.groupby(["Estado", "Mes_Cosecha"]) \
 # Utilizamos lambda (rendimiento promedio) para predecir la distribución
 probabilidades = poisson.pmf(x_toneladas, mu=lambda_rendimiento)
 ```
+
+<figure><img src="../.gitbook/assets/WhatsApp Image 2026-05-31 at 9.08.21 PM.jpeg" alt=""><figcaption></figcaption></figure>
+
+
 
 Al visualizar las curvas de Poisson para los estados con mejores temporadas, obtenemos información estratégica:
 
