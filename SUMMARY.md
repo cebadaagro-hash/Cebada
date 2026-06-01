@@ -13,7 +13,7 @@
   * [Análisis Estratégico: Distribución y Destino de la Cosecha](materias/analisis-estrategico-distribucion-y-destino-de-la-cosecha.md)
   * [Transformando el "Rechazo" en Rentabilidad: Estrategia Comercial 360°](materias/transformando-el-rechazo-en-rentabilidad-estrategia-comercial-360.md)
   * [Análisis de Inteligencia Predictiva: Clasificación de Precios](materias/analisis-de-inteligencia-predictiva-clasificacion-de-precios.md)
-  * [Copy of Investigacion de Operaciones](materias/copy-of-investigacion-de-operaciones.md)
+  * [Optimización de Rutas: Eficiencia Logística en Tiempo Real](materias/optimizacion-de-rutas-eficiencia-logistica-en-tiempo-real.md)
 * [Resultados](materias-1/README.md)
   * [Análisis de datos](materias-1/analisis-de-datos.md)
   * [Validación del modelo](materias-1/validacion-del-modelo.md)
