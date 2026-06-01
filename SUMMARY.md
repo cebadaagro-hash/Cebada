@@ -9,6 +9,7 @@
   * [Recolección de datos](materias/recoleccion-de-datos.md)
   * [Modelado Predictivo y Análisis de Escenarios](materias/modelado-predictivo-y-analisis-de-escenarios.md)
   * [Modelo de Series Temporales (ARIMA)](materias/modelo-de-series-temporales-arima.md)
+  * [Análisis Probabilístico: Distribución de Rendimientos (Poisson)](materias/analisis-probabilistico-distribucion-de-rendimientos-poisson.md)
   * [Aprendizaje de Maquina](materias/aprendizaje-de-maquina.md)
   * [Investigacion de Operaciones](materias/investigacion-de-operaciones.md)
   * [Mercadotecnia Digital](materias/mercadotecnia-digital.md)
