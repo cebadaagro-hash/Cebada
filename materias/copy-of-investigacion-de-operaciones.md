@@ -2,5 +2,5 @@
 icon: user-hat-tie-magnifying-glass
 ---
 
-# Investigacion de Operaciones
+# Copy of Investigacion de Operaciones
 
