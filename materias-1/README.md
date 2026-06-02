@@ -1,6 +1,0 @@
----
-icon: luchador-mask
----
-
-# Resultados
-

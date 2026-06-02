@@ -1,5 +1,5 @@
 ---
-icon: user-hat-tie-magnifying-glass
+icon: cash-register
 ---
 
 # Análisis de Inteligencia Predictiva: Clasificación de Precios

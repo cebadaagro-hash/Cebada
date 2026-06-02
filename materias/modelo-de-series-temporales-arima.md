@@ -26,7 +26,7 @@ prediccion = resultado.get_forecast(steps=36)
 produccion_futura = prediccion.predicted_mean
 ```
 
-<figure><img src="../.gitbook/assets/WhatsApp Image 2026-05-31 at 9.07.43 PM.jpeg" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/WhatsApp Image 2026-06-01 at 3.59.11 PM.jpeg" alt=""><figcaption></figcaption></figure>
 
 El modelo nos permite obtener reportes inteligentes que guían la toma de decisiones:
 

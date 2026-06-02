@@ -22,7 +22,7 @@ Además, el intercambio comercial relacionado con la cebada alcanzó aproximadam
 
 La cadena productiva de la cebada genera empleo en actividades agrícolas, de almacenamiento, transporte, procesamiento industrial y comercialización, contribuyendo al desarrollo económico de diversas regiones del país.
 
-<figure><img src="../.gitbook/assets/image.png" alt="" width="563"><figcaption><p>Fotoarte: Ericka Robles</p></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (2).png" alt="" width="563"><figcaption><p>Fotoarte: Ericka Robles</p></figcaption></figure>
 
 #### Datos Clave
 

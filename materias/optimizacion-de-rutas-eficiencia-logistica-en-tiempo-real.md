@@ -8,7 +8,9 @@ En la distribución de cebada, el costo del flete es uno de los factores que má
 
 Hemos desarrollado un algoritmo de optimización de rutas que calcula la secuencia de visitas más eficiente entre municipios. Esta herramienta no solo sugiere el camino más corto, sino que compara el "costo de oportunidad" frente a la logística tradicional.
 
-<figure><img src="../.gitbook/assets/WhatsApp Image 2026-06-01 at 12.34.55 AM.jpeg" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/WhatsApp Image 2026-06-01 at 3.59.53 PM.jpeg" alt=""><figcaption></figcaption></figure>
+
+<figure><img src="../.gitbook/assets/WhatsApp Image 2026-06-01 at 3.59.53 PM (1).jpeg" alt=""><figcaption></figcaption></figure>
 
 El motor utiliza PySpark para la gestión de datos geográficos y NetworkX para la modelación de redes, permitiendo visualizar la ruta óptima de forma clara y directa:
 
