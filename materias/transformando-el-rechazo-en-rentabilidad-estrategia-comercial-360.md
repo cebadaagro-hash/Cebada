@@ -4,11 +4,11 @@ icon: robot
 
 # Transformando el "Rechazo" en Rentabilidad: Estrategia Comercial 360°
 
-Retomando la grafica enterior, la pregunta es ¿Que pasa con lo que no se vende es perdida?
+Retomando la grafica anterior, la pregunta es ¿Que pasa con lo que no se vende?,¿Es perdida?
 
 <figure><img src="../.gitbook/assets/WhatsApp Image 2026-05-31 at 9.09.44 PM.jpeg" alt=""><figcaption></figcaption></figure>
 
-Como productor, mi prioridad no es solo producir, sino optimizar el valor de cada tonelada. Cuando el grano no cumple con los estándares de la industria maltera, no es una pérdida; es una oportunidad de diversificación si aplicamos una estrategia de Marketing bien ejecutada.
+Como productor, la prioridad no es solo producir, sino optimizar el valor de cada tonelada. Cuando el grano no cumple con los estándares de la industria maltera, no es una pérdida; es una oportunidad de diversificación si aplicamos una estrategia de Marketing bien ejecutada.
 
 El productor agrícola moderno debe trascender la visión del "sobrante". En una gestión profesional, no existen residuos, solo especificaciones técnicas distintas. La estrategia para maximizar la rentabilidad consiste en integrar soluciones tecnológicas y de mercado que aseguren que cada tonelada de cebada tenga un destino de alto valor antes de ser cosechada.
 

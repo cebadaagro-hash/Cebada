@@ -1,6 +1,8 @@
+---
+icon: wheat-awn
+---
+
 # Modelo de Series Temporales (ARIMA)
-
-
 
 Hemos implementado un modelo estadístico ARIMA (AutoRegressive Integrated Moving Average). Este algoritmo actúa como un "estabilizador de incertidumbre", analizando los patrones históricos para proyectar con precisión cómo se comportará la cosecha en los próximos 3 años (2025-2027).
 
@@ -31,4 +33,4 @@ El modelo nos permite obtener reportes inteligentes que guían la toma de decisi
 1. Puntos Críticos: Identificamos el mes exacto donde la producción alcanzará su pico máximo.
 2. Rango de Seguridad: Gracias al _Intervalo de Confianza_, conocemos el margen de error esperado, lo que permite a la cadena de suministro preparar su capacidad de almacenamiento sin sorpresas.
 
-Impacto en el Negocio: Al anticipar la producción de cebada, equilibramos la oferta de los productores con la demanda de los centros de distribución (centros malteros)
+Contribuyendo al anticipar la producción de cebada, equilibramos la oferta de los productores con la demanda de los centros de distribución (centros malteros)

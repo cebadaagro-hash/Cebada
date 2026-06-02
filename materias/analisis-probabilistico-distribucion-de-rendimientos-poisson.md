@@ -1,3 +1,7 @@
+---
+icon: wheat-awn
+---
+
 # Análisis Probabilístico: Distribución de Rendimientos (Poisson)
 
 En la agricultura, el rendimiento por hectárea no es una cifra estática; depende de la variabilidad del clima, la calidad del suelo y el manejo técnico. Para tomar decisiones logísticas inteligentes, no basta con saber el "promedio histórico", debemos conocer la probabilidad de obtener un rendimiento específico bajo las mejores condiciones de cosecha.
