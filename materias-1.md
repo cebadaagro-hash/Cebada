@@ -23,7 +23,7 @@ Para replicar y correr el modelo de manera interactiva, por favor sigue estos 3 
 
 **1. Descarga de la Base de Datos (10.2 GB)**
 
-Descarga el archivo original de datos desde nuestro enlace seguro de almacenamiento. **No intentes abrirlo de forma local en tu equipo**: [**Descargar Base de Datos Completa (Google Drive)**](AQU%C3%8D_PEGA_EL_LINK_DE_COMPARTIR_DE_TU_GOOGLE_DRIVE/)
+Descarga el archivo original de datos desde nuestro enlace seguro de almacenamiento. **No intentes abrirlo de forma local en tu equipo**: [**Descargar Base de Datos Completa (Google Drive)**](https://drive.google.com/file/d/1fpQgHcF0vtC9pOHV1KUL6GfHDIwc67vo/view?usp=sharing)
 
 **2. Carga en tu Google Drive Personal**
 
