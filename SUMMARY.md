@@ -16,6 +16,4 @@
   * [Optimización de Rutas: Eficiencia Logística en Tiempo Real](materias/optimizacion-de-rutas-eficiencia-logistica-en-tiempo-real.md)
 * [Resultados](materias-1.md)
 * [Conclusiones](materias-2/README.md)
-  * [Impacto del proyecto](materias-2/impacto-del-proyecto.md)
-  * [Limitaciones y Alcance](materias-2/limitaciones-y-alcance.md)
   * [Refelxion final](materias-2/refelxion-final.md)
