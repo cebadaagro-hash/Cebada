@@ -15,7 +15,7 @@ Puedes navegar por las secciones del menú lateral para acceder al detalle técn
 * Clasificación Predictiva (Machine Learning): Modelos de clasificación para identificar lotes de alta rentabilidad antes de su salida al mercado.
 * Consejo de uso: Cada sección incluye el código fuente en PySpark para garantizar la reproducibilidad y escalabilidad de los modelos, así como interpretaciones de negocio diseñadas para facilitar la toma de decisiones.
 
-¡PRUEBALO TU MISMO!
+## **¡PRUEBALO TU MISMO!**
 
 Debido a que la base de datos de este proyecto es masiva (**10.2 GB**), intentar ejecutar el código en una computadora local convencional puede saturar la memoria RAM y congelar el equipo. Para garantizar la transparencia y reproducibilidad, se ha configurado el entorno utilizando **Apache Spark** en la nube a través de **Google Colab**, aprovechando la infraestructura de Google para procesar los datos por bloques sin pérdida de rendimiento.
 
